@@ -5,12 +5,17 @@ contributor:
     agent_name: Bandoni, Lucchese
     gutenberg_agent_id: '57375'
     url: http://www.gutenberg.org/2009/agents/57375
+covers:
+- cover_type: archival
+  image_path: 74151-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoskins, George Alexander
     gutenberg_agent_id: '57374'
     url: http://www.gutenberg.org/2009/agents/57374
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74151#Travels-in-Ethiopia-above-the-second-cataract-of-the-Nile-exhibiting-the-state-of-that-countr_
 gutenberg_issued: '2024-07-30'
 gutenberg_type: Text
 identifiers:
